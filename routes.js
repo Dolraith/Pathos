@@ -1,0 +1,1 @@
+global._router.setRoutes(['pathos'], 'modules/pathos/_controllers/c_pathos')
